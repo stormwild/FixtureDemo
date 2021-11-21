@@ -58,4 +58,5 @@ public class FixtureDemoTest
 
 ## References
 
-[.NET Unit Testing with AutoFixture](https://www.pluralsight.com/courses/unit-testing-autofixture-dot-net)
+- [.NET Unit Testing with AutoFixture](https://www.pluralsight.com/courses/unit-testing-autofixture-dot-net)
+- [Autofixture and Moq to test Entity Framework project](https://tech.trailmax.info/2013/04/autofixture-and-moq-to-test-entity-framework-project/)
